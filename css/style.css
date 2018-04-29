@@ -1,0 +1,70 @@
+.navbar {
+    background-color: #ff4551;
+    font-size: 35px;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-style: italic;
+    height: 80px;
+    font-weight: 800;
+
+}
+.x {
+    width: 90px;
+    height: auto;
+    padding-top: 20px;
+
+}
+.blue{
+    width: 100%;
+    height: 30px;
+    font-size: 22px;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-weight: 400;    
+    background-color: #95cae0;
+}
+.cent {
+    text-align: center;
+}
+.purple {
+    background-color: #ffccff;
+    height: 500px;
+}
+.womxn  {
+    width: 100%;
+}
+.nav-item   {
+    color: black;   
+}
+.divider {
+    height: 100%;
+    background: linear-gradient(90deg, skyblue 50%, #ff4551 50%);
+}
+.divided    {
+    height: 500px;
+    padding-top: 400px;
+
+}
+.col-4  {
+    font-size: 65px;
+    font-family: 'Muli', sans-serif;
+    font-weight: 900;
+}
+.two    {
+    padding-top: 500px;
+}
+.col-12 {
+    font-size: 65px;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-weight: 900;
+
+}
+
+.row {
+    width: 100%;
+
+}
+header {
+    position: fixed;
+    width: 100%;
+    opacity: initial;
+    z-index: 100;
+}
