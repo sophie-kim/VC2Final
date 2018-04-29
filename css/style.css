@@ -52,7 +52,7 @@ body {
 }
 .divided    {
     height: 500px;
-    padding-top: 400px;
+    padding-top: 200px;
 
 }
 .col-4  {
@@ -61,7 +61,7 @@ body {
     font-weight: 900;
 }
 .two    {
-    padding-top: 450px;
+    padding-top: 250px;
 }
 .col-12 {
     font-size: 65px;
