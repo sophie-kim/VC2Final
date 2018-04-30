@@ -23,19 +23,16 @@ header {
 }
 .blue{
     width: 100%;
-    height: auto;
     font-size: 22px;
     font-family: 'Gotham HTF', 'Muli', sans-serif;
     font-weight: 400;    
-    background-color: #95cae0;
+    background-color: skyblue;
     text-align: center;
 }
 .cent {
     text-align: center;
 }
 .purple {
-    position: relative;
-    top: 80px;
     background:skyblue 50%; 
 }
 .womxn  {
@@ -46,7 +43,7 @@ header {
 .nav-item   {
     color: black;   
 }
-body {
+.divider {
     height: 100%;
     background: linear-gradient(90deg, skyblue 50%, #ff4551 50%);
 }
@@ -62,6 +59,7 @@ body {
 }
 .two    {
     padding-top: 250px;
+    padding-left: 20px;
 }
 .col-12 {
     font-size: 65px;
@@ -83,7 +81,7 @@ ul {
     font-size: 25px;
     font-weight: bold;
     font-style: italic;
-    color: black;
+    color: white;
     text-align: center;
 
 }
@@ -99,6 +97,82 @@ ul {
     right: 300px;
     height: auto;
     padding-top: 1100px;
+    z-index: -100;
 
 }
+.x2 {
+    width: 90px;
+    height: auto;
+}
+.exist  {
+    padding-top: 50px;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    padding-left: 20px;
+}
+#list   {
+    position: relative;
+    left: 50px;
+    z-index: 90;
+}
+.fest   {
+    text-align: right;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-right: 20px;
+}
+#x3 {
+    width: 40px;
+    height: auto;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
 
+}
+.pp {
+    text-align: left;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-left: 20px;    
+    padding-top: 25px;
+}
+#left   {
+    text-align: left;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    padding-left: 40px;
+}
+#mid    {
+    text-align: center;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+}
+#right  {
+    text-align: right;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+}
+footer  {
+    padding-top: 100px;
+    font-weight: bold;
+    color: black
+}
+.link  {
+    color: black
+}
+.link:hover    {
+    color: white;
+}
+body    {
+    color: white;
+
+}
+#x4 {
+    width: 70px;
+    height: auto;
+    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.nav-item:hover   {
+    color: white;
+}
+#beu    {
+    left: 20px;
+}
