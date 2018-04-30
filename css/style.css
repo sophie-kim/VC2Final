@@ -49,7 +49,7 @@ header {
 }
 .divided    {
     height: 500px;
-    padding-top: 200px;
+    padding-top: 50px;
 
 }
 .col-4  {
@@ -58,7 +58,7 @@ header {
     font-weight: 900;
 }
 .two    {
-    padding-top: 250px;
+    padding-top: 150px;
     padding-left: 20px;
 }
 .col-12 {
