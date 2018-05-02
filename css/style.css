@@ -160,6 +160,7 @@ footer  {
 }
 .link:hover    {
     color: white;
+    text-decoration: none;
 }
 body    {
     color: white;
