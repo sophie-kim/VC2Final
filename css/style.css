@@ -9,7 +9,7 @@ header {
 .navbar {
     background-color: #ff4551;
     font-size: 35px;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-BookOblique', 'Gotham HTF', 'Muli', sans-serif;
     font-style: italic;
     height: 80px;
     font-weight: 800;
@@ -21,10 +21,10 @@ header {
     padding-top: 20px;
 
 }
-.blue{
+.blue {
     width: 100%;
     font-size: 22px;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaSTD-Book', 'Gotham HTF', 'Muli', sans-serif;
     font-weight: 400;    
     background-color: skyblue;
     text-align: center;
@@ -54,7 +54,7 @@ header {
 }
 .col-4  {
     font-size: 65px;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-BookOblique', 'Gotham HTF', 'Muli', sans-serif;
     font-weight: 900;
 }
 .two    {
@@ -63,7 +63,7 @@ header {
 }
 .col-12 {
     font-size: 65px;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-BookOblique', 'Gotham HTF', 'Muli', sans-serif;
     font-weight: 900;
 
 }
@@ -75,9 +75,9 @@ header {
 
 ul {
     padding-top: 50px;
-    padding-left: 200px;
+    padding-left: 250px;
     list-style: none;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaSTD-MediumOblique, 'Gotham HTF', 'Muli', sans-serif;
     font-size: 25px;
     font-weight: bold;
     font-style: italic;
@@ -106,17 +106,17 @@ ul {
 }
 .exist  {
     padding-top: 50px;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Book', 'Gotham HTF', 'Muli', sans-serif;
     padding-left: 20px;
 }
 #list   {
     position: relative;
-    left: 50px;
+    left: 300px;
     z-index: 90;
 }
 .fest   {
     text-align: right;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Book', 'Gotham HTF', 'Muli', sans-serif;
     font-size: 40px;
     font-weight: bolder;
     padding-right: 20px;
@@ -124,12 +124,12 @@ ul {
 #x3 {
     width: 40px;
     height: auto;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Book', 'Gotham HTF', 'Muli', sans-serif;
 
 }
 .pp {
     text-align: left;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Book', 'Gotham HTF', 'Muli', sans-serif;
     font-size: 40px;
     font-weight: bolder;
     padding-left: 20px;    
@@ -137,21 +137,23 @@ ul {
 }
 #left   {
     text-align: left;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Light', 'Gotham HTF', 'Muli', sans-serif;
     padding-left: 40px;
 }
 #mid    {
     text-align: center;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Light', 'Gotham HTF', 'Muli', sans-serif;
 }
 #right  {
     text-align: right;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Light', 'Gotham HTF', 'Muli', sans-serif;
 }
 footer  {
+    width: 100%;
     padding-top: 100px;
     font-weight: bold;
-    color: black
+    color: black;
+    background-color: #ff4551;
 }
 .link  {
     color: black
@@ -161,12 +163,15 @@ footer  {
 }
 body    {
     color: white;
+    max-width: 1920px;
+    width: 100%;
+    background-color: #ff4551;
 
 }
 #x4 {
     width: 70px;
     height: auto;
-    font-family: 'Gotham HTF', 'Muli', sans-serif;
+    font-family: 'FuturaStd-Light', 'Gotham HTF', 'Muli', sans-serif;
     padding-left: 5px;
     padding-bottom: 5px;
 }
@@ -176,3 +181,44 @@ body    {
 #beu    {
     left: 20px;
 }
+
+h1 {
+    font-family: 'FuturaStd-BookOblique', 'Gotham HTF', 'Muli', sans-serif;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: 'FuturaStd-BookOblique', 'Gotham HTF', 'Muli', sans-serif;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-size: 50px;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    background-color: orange;
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+#one {
+    background-color: orange;
+}
+
+#two {
+    background-color: orange;
+    padding-top: 1200px;
+}
+
+article {
+    margin: auto;
+}
+
+
+
