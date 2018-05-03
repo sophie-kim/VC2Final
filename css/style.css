@@ -249,6 +249,12 @@ section {
     width: 100%;
 }
 
+#four {
+    background-color: rgb(109, 211, 109);
+    height: 100%;
+    width: 100%;
+}
+
 article {
     margin: auto;
 }
@@ -278,3 +284,10 @@ ygb {
     position: relative;
     padding: 20px;
 }
+
+#exhibitionhead {
+    background-color: rgb(109, 211, 109);
+    position: relative;
+    padding: 20px;
+}
+
