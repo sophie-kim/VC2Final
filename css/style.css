@@ -1,4 +1,6 @@
-
+.container-fluid    {
+    width: 100%;
+}
 header {
     position: fixed;
     width: 100%;
