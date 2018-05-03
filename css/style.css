@@ -110,7 +110,7 @@ ul {
 
 }
 .x2 {
-    width: 90px;
+    width: 80px;
     height: auto;
 }
 .exist  {
@@ -176,6 +176,16 @@ footer  {
     color: white;
     text-decoration: none;
 }
+
+.link-artist {
+    color: white
+}
+
+.link-artist:hover {
+    color: black;
+    text-decoration: none;
+}
+
 body    {
     color: white;
     max-width: 1920px;
@@ -232,6 +242,11 @@ section {
     height: fit-content;
 }
 
+#three {
+    background-color: orange;
+    height: fit-content;
+}
+
 article {
     margin: auto;
 }
@@ -256,3 +271,8 @@ ygb {
     padding: 20px;
 }
 
+#sunhead {
+    background-color: orange;
+    position: relative;
+    padding: 20px;
+}
