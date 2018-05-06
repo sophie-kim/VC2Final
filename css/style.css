@@ -301,3 +301,11 @@ ygb {
     padding: 20px;
 }
 
+.form   {
+    font-family: 'FuturaStd-Book', 'Gotham HTF', 'Muli', sans-serif;
+    color: black;
+
+}
+.form-control   {
+    width: 200px;
+}
