@@ -33,7 +33,7 @@ nav {
     font-size: 22px;
     font-family: 'FuturaSTD-Book', 'Gotham HTF', 'Muli', sans-serif;
     font-weight: 400;    
-    background-color: skyblue;
+    background-color: black;
     text-align: center;
 }
 .cent {
@@ -223,8 +223,7 @@ h2 {
 
 section {
     width: 100%;
-    height: 100vh;
-    background-color: orange;
+    height: 100%;
     display: flex; 
     flex-direction: row;
     flex-wrap: wrap;
@@ -264,9 +263,8 @@ ygb {
 #foot   {
     color: black;
     background-color: #ff4551;
-    padding-top: 10%;
     font-weight: 600;
-    height: 200px;
+    height: auto;
 }
 #frihead    {
     background-color: orange;
