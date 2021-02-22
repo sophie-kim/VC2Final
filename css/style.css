@@ -310,3 +310,17 @@ ygb {
 .form-control   {
     width: 200px;
 }
+.disclaimer {
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+}
+.nav-link {
+    padding: 0 1rem !important;
+}
+
+@media (max-width: 1000px) {
+    nav {
+        font-size: 20px;
+    }
+}
